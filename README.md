@@ -1,0 +1,1 @@
+Vistas Defender é uma suíte de segurança e proteção comportamental proativa (EDR) de baixo nível para Windows. O seu principal objetivo é monitorar a memória RAM e interceptar de forma implacável processos suspeitos, desconhecidos ou sem privilégios de administrador que tentem violar o sistema ou modificar diretórios protegidos.
