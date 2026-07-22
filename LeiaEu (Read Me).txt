@@ -1,0 +1,183 @@
+Vistas Defender
+
+Vistas Defender é uma solução de segurança para Windows desenvolvida pela Macrobyte Security.
+
+Este arquivo contém apenas informações de instalação, compatibilidade e uso do programa.
+
+Compatibilidade
+
+Sistemas com suporte nativo
+
+Windows 8
+
+Windows 8.1
+
+Windows 10
+
+Windows 11
+
+Windows 7
+
+O Windows 7 não possui suporte nativo garantido.
+
+Em algumas instalações, o programa poderá funcionar com uma camada de compatibilidade, como o VxKex, ou em versões modificadas do Windows 7 que incluam APIs adicionais.
+
+A Macrobyte Security não garante estabilidade, desempenho ou funcionamento completo nesses ambientes.
+
+Requisitos
+
+Windows de 64 bits
+
+Conta com privilégios de administrador
+
+Todos os componentes originais do Vistas Defender
+
+Arquivos oficiais e não modificados
+
+Instalação
+
+Extraia todos os arquivos do Vistas Defender para uma única pasta.
+
+Não renomeie, altere ou remova os componentes do programa.
+
+Execute VistasUI.exe.
+
+Autorize a execução como administrador quando solicitado.
+
+Aguarde a verificação de integridade.
+
+Abra a área Proteção e ative o mecanismo de segurança.
+
+Arquivos do programa
+
+Os componentes distribuídos com o Vistas Defender devem permanecer juntos na pasta de instalação.
+
+A ausência, alteração ou substituição de qualquer arquivo poderá impedir o funcionamento do programa.
+
+Não baixe componentes individuais de fontes desconhecidas.
+
+Verificação de integridade
+
+Antes de iniciar o mecanismo de proteção, o Vistas Defender verifica a autenticidade e a integridade de seus componentes.
+
+Os arquivos oficiais devem ser identificados como publicados por:
+
+Macrobyte Security
+
+Caso o painel informe falha de assinatura, integridade ou autenticidade:
+
+Não ignore o aviso.
+
+Feche o programa.
+
+Exclua a instalação suspeita.
+
+Baixe novamente o pacote por uma fonte oficial.
+
+Como usar
+
+Ativar a proteção
+
+Abra o Vistas Defender.
+
+Acesse Proteção.
+
+Clique em ATIVAR PROTEÇÃO.
+
+Aguarde a confirmação de que o mecanismo está ativo.
+
+Verificar os componentes
+
+Abra a página Integridade.
+
+Aguarde a análise.
+
+Confirme que todos os componentes foram reconhecidos como válidos.
+
+Consultar eventos
+
+A página Eventos apresenta informações sobre:
+
+inicialização do painel
+
+ativação ou desativação da proteção
+
+verificações de integridade
+
+erros detectados
+
+atividades do programa
+
+Verificar atualizações
+
+Abra a página Atualizações e utilize a opção disponível para verificar novas versões ou componentes de segurança.
+
+Windows 7 com VxKex
+
+O uso do Vistas Defender no Windows 7 poderá exigir o VxKex.
+
+Essa configuração é opcional, não oficial e de responsabilidade do usuário.
+
+Não substitua arquivos internos do Windows nem copie DLLs de outras versões do sistema para a pasta System32.
+
+Recomendações de segurança
+
+Utilize somente pacotes oficiais.
+
+Não execute versões modificadas por terceiros.
+
+Não desative a verificação de integridade.
+
+Não substitua os arquivos originais.
+
+Não instale certificados fornecidos por fontes desconhecidas.
+
+Não execute o programa quando houver alerta de assinatura inválida.
+
+Mantenha o Windows atualizado sempre que possível.
+
+Solução de problemas
+
+O programa não abre
+
+Confirme se o sistema é compatível.
+
+Execute como administrador.
+
+Verifique se todos os arquivos estão na mesma pasta.
+
+Baixe novamente o pacote oficial caso algum componente esteja ausente.
+
+Erro relacionado a CreateFile2
+
+Esse erro pode ocorrer no Windows 7 original porque o sistema não possui determinadas APIs exigidas pelo programa.
+
+Utilize Windows 8 ou superior. No Windows 7, poderá ser necessária uma camada de compatibilidade como o VxKex.
+
+Falha de integridade
+
+Uma falha de integridade indica que um componente está ausente, alterado, corrompido ou não foi reconhecido como oficial.
+
+Não prossiga com a execução até reinstalar o pacote oficial.
+
+Proteção não inicia
+
+Execute o painel como administrador.
+
+Confirme a integridade dos componentes.
+
+Reinicie o computador.
+
+Verifique se outro programa de segurança está bloqueando a inicialização.
+
+Aviso
+
+O Vistas Defender está em desenvolvimento. Recursos, aparência, compatibilidade e funcionamento poderão mudar entre versões.
+
+O programa não deve ser utilizado como única medida de segurança em ambientes críticos enquanto estiver em fase de testes.
+
+Desenvolvedor
+
+Macrobyte Security
+
+Produto: Vistas Defender
